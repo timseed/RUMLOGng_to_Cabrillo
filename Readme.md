@@ -6,8 +6,11 @@ This is done using Python (3+). You only need 2 Modules
 
   - BeautifulSoup 
   - hamcabrillo (Written by me) 
+    - Available at [git@github.com:timseed/CabrillotoDataFrame.git](git@github.com:timseed/CabrillotoDataFrame.git) 
 
-There is a Jupyter-Lab notebook for this project. 
+This conversion is done using Jupyter-lab  - please look at [./from AXD.ipynb](./from AXD.ipynb)
+
+This process will generate a Cabrillo output file, which you can then edit/customise etc.
 
 73s de Tim. DV3A/DU3TW
 
