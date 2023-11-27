@@ -1,0 +1,3000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ADX>
+    <HEADER>
+        <!--ADIF Export from RumLogNG by DL2RUM-->
+        <!--For further info visit: https://www.dl2rum.de-->
+        <ADIF_VER>3.1.4</ADIF_VER>
+        <PROGRAMID>RUMlogNG</PROGRAMID>
+        <PROGRAMVERSION>5.14.4</PROGRAMVERSION>
+        <CREATED_TIMESTAMP>20231126 234412</CREATED_TIMESTAMP>
+        <USERDEF FIELDID="1" TYPE="S">APP_RUMLOG_USER_1</USERDEF>
+        <USERDEF FIELDID="2" TYPE="S">APP_RUMLOG_USER_2</USERDEF>
+        <USERDEF FIELDID="3" TYPE="S">APP_RUMLOG_USER_3</USERDEF>
+        <USERDEF FIELDID="4" TYPE="S">APP_RUMLOG_USER_4</USERDEF>
+        <USERDEF FIELDID="5" TYPE="S">APP_RUMLOG_POWER</USERDEF>
+        <USERDEF FIELDID="6" TYPE="N" RANGE="{0:9}">APP_RUMLOG_COLORCODE</USERDEF>
+        <USERDEF FIELDID="7" TYPE="E" ENUM="{-,W,R,S,X,G,Q,B,N}">APP_RUMLOG_QSL</USERDEF>
+    </HEADER>
+    <RECORDS>
+        <RECORD>
+            <CALL>3W9A</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>234157</TIME_ON>
+            <TIME_OFF>234157</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.042200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>293</DXCC>
+            <CQZ>26</CQZ>
+            <ITUZ>37</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>3W9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>VK9XY</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>233644</TIME_ON>
+            <TIME_OFF>233644</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.021100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>35</DXCC>
+            <CQZ>29</CQZ>
+            <ITUZ>54</ITUZ>
+            <CONT>Oc</CONT>
+            <IOTA>OC-002</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>VK9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>IR2Q</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>233450</TIME_ON>
+            <TIME_OFF>233450</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.019000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>248</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>IR2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>D4C</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>233222</TIME_ON>
+            <TIME_OFF>233222</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.060800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>409</DXCC>
+            <CQZ>35</CQZ>
+            <ITUZ>46</ITUZ>
+            <CONT>Af</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>D4</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>4D3X</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>231840</TIME_ON>
+            <TIME_OFF>231840</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.034200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>375</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>50</ITUZ>
+            <CONT>Oc</CONT>
+            <NAME>Larry</NAME>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>4D3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>FW5N</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>231116</TIME_ON>
+            <TIME_OFF>231116</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.029100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>298</DXCC>
+            <CQZ>32</CQZ>
+            <ITUZ>62</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>FW5</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>E2X</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>230414</TIME_ON>
+            <TIME_OFF>230414</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.014700</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>387</DXCC>
+            <CQZ>26</CQZ>
+            <ITUZ>49</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>E2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>LN8W</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>230302</TIME_ON>
+            <TIME_OFF>230302</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.013300</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>266</DXCC>
+            <CQZ>14</CQZ>
+            <ITUZ>18</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>LN8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>CR3A</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>230125</TIME_ON>
+            <TIME_OFF>230125</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.009800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>256</DXCC>
+            <CQZ>33</CQZ>
+            <ITUZ>36</ITUZ>
+            <CONT>Af</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>CR3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>S57K</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>230007</TIME_ON>
+            <TIME_OFF>230007</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.007400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>499</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>S57</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>P3AA</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>225838</TIME_ON>
+            <TIME_OFF>225838</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.001400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>215</DXCC>
+            <CQZ>20</CQZ>
+            <ITUZ>39</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>P3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>VR2T</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>225247</TIME_ON>
+            <TIME_OFF>225247</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.030300</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>321</DXCC>
+            <CQZ>24</CQZ>
+            <ITUZ>63</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>VR2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>HI3Y</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>225151</TIME_ON>
+            <TIME_OFF>225151</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.005200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>72</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-096</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>HI3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>P44W</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>225005</TIME_ON>
+            <TIME_OFF>225005</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.000800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>91</DXCC>
+            <CQZ>9</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>SA</CONT>
+            <IOTA>SA-036</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>P44</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>C6AQQ</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>224804</TIME_ON>
+            <TIME_OFF>224804</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.045800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>60</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>C6</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>K6LL</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>224044</TIME_ON>
+            <TIME_OFF>224044</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.004000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>291</DXCC>
+            <CQZ>3</CQZ>
+            <ITUZ>6</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-005</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>K6</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>XR1EW</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>223920</TIME_ON>
+            <TIME_OFF>223920</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.022000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>112</DXCC>
+            <CQZ>12</CQZ>
+            <ITUZ>14</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>XR1</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>CO8ZZ</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>223826</TIME_ON>
+            <TIME_OFF>223826</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.031200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>70</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>CO8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>PX2A</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>223112</TIME_ON>
+            <TIME_OFF>223112</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.025100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>108</DXCC>
+            <CQZ>11</CQZ>
+            <ITUZ>13</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>PX2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>FY5KE</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>222918</TIME_ON>
+            <TIME_OFF>222918</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.002500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>63</DXCC>
+            <CQZ>9</CQZ>
+            <ITUZ>12</ITUZ>
+            <CONT>SA</CONT>
+            <IOTA>SA-020</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>FY5</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>V31CQ</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>222451</TIME_ON>
+            <TIME_OFF>222451</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.013400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>66</DXCC>
+            <CQZ>7</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>V31</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>V26K</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>221907</TIME_ON>
+            <TIME_OFF>221907</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.066400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>94</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-100</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>V26</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>YR0K</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>221233</TIME_ON>
+            <TIME_OFF>221233</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.022700</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>275</DXCC>
+            <CQZ>20</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>YR0</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>3B8M</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>221021</TIME_ON>
+            <TIME_OFF>221021</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.050800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>165</DXCC>
+            <CQZ>39</CQZ>
+            <ITUZ>53</ITUZ>
+            <CONT>Af</CONT>
+            <IOTA>AF-049</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>3B8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>VU2NXG</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>220549</TIME_ON>
+            <TIME_OFF>220549</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.015900</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>324</DXCC>
+            <CQZ>22</CQZ>
+            <ITUZ>41</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>VU2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>9A1P</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>220437</TIME_ON>
+            <TIME_OFF>220437</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.006700</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>497</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>9A1</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>V85NPV</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>220328</TIME_ON>
+            <TIME_OFF>220328</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.003500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>345</DXCC>
+            <CQZ>28</CQZ>
+            <ITUZ>54</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>V85</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>DF0HQ</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>220103</TIME_ON>
+            <TIME_OFF>220103</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.004000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>230</DXCC>
+            <CQZ>14</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <NAME>Club</NAME>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>DF0</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>HB9CA</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>220026</TIME_ON>
+            <TIME_OFF>220026</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.012900</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>287</DXCC>
+            <CQZ>14</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>HB9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>CR3A</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>215856</TIME_ON>
+            <TIME_OFF>215856</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.009800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>256</DXCC>
+            <CQZ>33</CQZ>
+            <ITUZ>36</ITUZ>
+            <CONT>Af</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>CR3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>S58M</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>215802</TIME_ON>
+            <TIME_OFF>215802</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.008200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>499</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <NAME>gerald</NAME>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>S58</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>LZ9W</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>215633</TIME_ON>
+            <TIME_OFF>215633</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.032100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>212</DXCC>
+            <CQZ>20</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>LZ9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>ER1KAA</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>215432</TIME_ON>
+            <TIME_OFF>215432</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.015300</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>179</DXCC>
+            <CQZ>16</CQZ>
+            <ITUZ>29</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>ER1</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>3W9A</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>215319</TIME_ON>
+            <TIME_OFF>215319</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.011000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>293</DXCC>
+            <CQZ>26</CQZ>
+            <ITUZ>37</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>3W9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>EW5A</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>215040</TIME_ON>
+            <TIME_OFF>215040</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.011800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>27</DXCC>
+            <CQZ>16</CQZ>
+            <ITUZ>29</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>EW5</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>OM8CW</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>063222</TIME_ON>
+            <TIME_OFF>063222</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.028100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>504</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>OM8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>YT8A</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>063135</TIME_ON>
+            <TIME_OFF>063135</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.001600</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>296</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>YT8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>OL9Z</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>063040</TIME_ON>
+            <TIME_OFF>063040</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.004800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>503</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>OL9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>S77HQ</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>062537</TIME_ON>
+            <TIME_OFF>062537</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.041100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>379</DXCC>
+            <CQZ>39</CQZ>
+            <ITUZ>53</ITUZ>
+            <CONT>Af</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>S77</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>3B7M</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>062437</TIME_ON>
+            <TIME_OFF>062437</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.007500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>4</DXCC>
+            <CQZ>39</CQZ>
+            <ITUZ>53</ITUZ>
+            <CONT>Af</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>3B7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>DX8H</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>054102</TIME_ON>
+            <TIME_OFF>054102</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.050000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>375</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>50</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>DX8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>5W1SA</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>053924</TIME_ON>
+            <TIME_OFF>053924</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.039100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>190</DXCC>
+            <CQZ>32</CQZ>
+            <ITUZ>62</ITUZ>
+            <CONT>Oc</CONT>
+            <NAME>ATSUO</NAME>
+            <IOTA>OC-097</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>5W1</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>3B9KW</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>053620</TIME_ON>
+            <TIME_OFF>053620</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.002500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>207</DXCC>
+            <CQZ>39</CQZ>
+            <ITUZ>53</ITUZ>
+            <CONT>Af</CONT>
+            <IOTA>AF-017</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>3B9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>D4C</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>053442</TIME_ON>
+            <TIME_OFF>053442</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.014500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>409</DXCC>
+            <CQZ>35</CQZ>
+            <ITUZ>46</ITUZ>
+            <CONT>Af</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>D4</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>3B8M</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>053357</TIME_ON>
+            <TIME_OFF>053357</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.044000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>165</DXCC>
+            <CQZ>39</CQZ>
+            <ITUZ>53</ITUZ>
+            <CONT>Af</CONT>
+            <IOTA>AF-049</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>3B8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>3B8M</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>052824</TIME_ON>
+            <TIME_OFF>052824</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.004900</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>165</DXCC>
+            <CQZ>39</CQZ>
+            <ITUZ>53</ITUZ>
+            <CONT>Af</CONT>
+            <IOTA>AF-049</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>3B8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>MU6P</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>052631</TIME_ON>
+            <TIME_OFF>052631</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.034800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>106</DXCC>
+            <CQZ>14</CQZ>
+            <ITUZ>27</ITUZ>
+            <CONT>Eu</CONT>
+            <IOTA>EU-114</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>MU6</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>EY7BJ</CALL>
+            <QSO_DATE>20231126</QSO_DATE>
+            <QSO_DATE_OFF>20231126</QSO_DATE_OFF>
+            <TIME_ON>052509</TIME_ON>
+            <TIME_OFF>052509</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.057100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>262</DXCC>
+            <CQZ>17</CQZ>
+            <ITUZ>30</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>EY7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>KP2M</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>235453</TIME_ON>
+            <TIME_OFF>235453</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.016400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>285</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-106</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>KP2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>LU8DPM</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>234803</TIME_ON>
+            <TIME_OFF>234803</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.032000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>100</DXCC>
+            <CQZ>13</CQZ>
+            <ITUZ>14</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>LU8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>NP2J</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>234111</TIME_ON>
+            <TIME_OFF>234111</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.038400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>285</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-106</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>NP2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>CE3CT</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>233909</TIME_ON>
+            <TIME_OFF>233909</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.029400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>112</DXCC>
+            <CQZ>12</CQZ>
+            <ITUZ>14</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>CE3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>4D3X</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>233739</TIME_ON>
+            <TIME_OFF>233739</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.017500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>375</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>50</ITUZ>
+            <CONT>Oc</CONT>
+            <NAME>Larry</NAME>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>4D3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>KP2B</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>233117</TIME_ON>
+            <TIME_OFF>233117</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.067000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>285</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-106</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>KP2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>3G6EW</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>232936</TIME_ON>
+            <TIME_OFF>232936</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.021000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>112</DXCC>
+            <CQZ>12</CQZ>
+            <ITUZ>14</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>3G6</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>OA4EA</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>232824</TIME_ON>
+            <TIME_OFF>232824</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.009500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>136</DXCC>
+            <CQZ>10</CQZ>
+            <ITUZ>12</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>OA4</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>CW5W</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>232432</TIME_ON>
+            <TIME_OFF>232432</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.039000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>144</DXCC>
+            <CQZ>13</CQZ>
+            <ITUZ>14</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>CW5</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>XE2AD</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>232134</TIME_ON>
+            <TIME_OFF>232134</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.062000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>50</DXCC>
+            <CQZ>6</CQZ>
+            <ITUZ>10</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-096</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>XE2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>AA7A</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>231057</TIME_ON>
+            <TIME_OFF>231057</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.036000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>291</DXCC>
+            <CQZ>3</CQZ>
+            <ITUZ>6</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>AA7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>XE1AY</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>230358</TIME_ON>
+            <TIME_OFF>230358</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.031000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>50</DXCC>
+            <CQZ>6</CQZ>
+            <ITUZ>10</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>XE1</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>PJ5J</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>230106</TIME_ON>
+            <TIME_OFF>230106</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.022600</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>519</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>PJ5</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>VE7SZ</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>225722</TIME_ON>
+            <TIME_OFF>225722</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.008400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>1</DXCC>
+            <CQZ>3</CQZ>
+            <ITUZ>2</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>VE7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>K6LL</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>225044</TIME_ON>
+            <TIME_OFF>225044</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.026100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>291</DXCC>
+            <CQZ>3</CQZ>
+            <ITUZ>6</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-005</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>K6</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>HK3TU</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>224103</TIME_ON>
+            <TIME_OFF>224103</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.006300</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>116</DXCC>
+            <CQZ>9</CQZ>
+            <ITUZ>12</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>HK3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>K0FX</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>222710</TIME_ON>
+            <TIME_OFF>222710</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.035600</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>291</DXCC>
+            <CQZ>4</CQZ>
+            <ITUZ>7</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>K0</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>HQ9X</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>222359</TIME_ON>
+            <TIME_OFF>222359</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.024700</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>80</DXCC>
+            <CQZ>7</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>HQ9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>TI7W</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>221759</TIME_ON>
+            <TIME_OFF>221759</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.038800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>308</DXCC>
+            <CQZ>7</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>TI7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>V47T</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>221724</TIME_ON>
+            <TIME_OFF>221724</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.059700</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>249</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-104</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>V47</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>K8R</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>221517</TIME_ON>
+            <TIME_OFF>221517</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.019700</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>515</DXCC>
+            <CQZ>32</CQZ>
+            <ITUZ>62</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>K8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>W7WA</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>221422</TIME_ON>
+            <TIME_OFF>221422</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.007600</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>291</DXCC>
+            <CQZ>3</CQZ>
+            <ITUZ>6</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>W7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>HQ9X</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>221340</TIME_ON>
+            <TIME_OFF>221340</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.057400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>80</DXCC>
+            <CQZ>7</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>HQ9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>4D3X</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>221150</TIME_ON>
+            <TIME_OFF>221150</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.024200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>375</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>50</ITUZ>
+            <CONT>Oc</CONT>
+            <NAME>Larry</NAME>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>4D3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>HG6N</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>220356</TIME_ON>
+            <TIME_OFF>220356</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.031000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>239</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>HG6</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>OM2XW</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>213706</TIME_ON>
+            <TIME_OFF>213706</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.021800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>504</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>OM2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>TM7A</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>213056</TIME_ON>
+            <TIME_OFF>213056</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.029800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>227</DXCC>
+            <CQZ>14</CQZ>
+            <ITUZ>27</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>TM7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>YT7A</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>212450</TIME_ON>
+            <TIME_OFF>212450</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.028200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>296</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>YT7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>UA0DAR</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>212302</TIME_ON>
+            <TIME_OFF>212302</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.027200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>15</DXCC>
+            <CQZ>19</CQZ>
+            <ITUZ>30</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>UA0</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>HL2BQG</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>212207</TIME_ON>
+            <TIME_OFF>212207</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.028500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>137</DXCC>
+            <CQZ>25</CQZ>
+            <ITUZ>44</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>HL2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>AH2R</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>211625</TIME_ON>
+            <TIME_OFF>211625</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.050900</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>103</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>64</ITUZ>
+            <CONT>Oc</CONT>
+            <IOTA>OC-026</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>AH2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>LX7I</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>095550</TIME_ON>
+            <TIME_OFF>095550</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.013400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>254</DXCC>
+            <CQZ>14</CQZ>
+            <ITUZ>27</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>LX7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>OH0X</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>095104</TIME_ON>
+            <TIME_OFF>095104</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.034000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>5</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>18</ITUZ>
+            <CONT>Eu</CONT>
+            <IOTA>EU-002</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>OH0</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>IM0HRP</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>093859</TIME_ON>
+            <TIME_OFF>093859</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.063100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>225</DXCC>
+            <CQZ>15</CQZ>
+            <ITUZ>28</ITUZ>
+            <CONT>Eu</CONT>
+            <COMMENT>zone 14</COMMENT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>IM0</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>XW4DX</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>093519</TIME_ON>
+            <TIME_OFF>093519</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.014100</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>143</DXCC>
+            <CQZ>26</CQZ>
+            <ITUZ>49</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>XW4</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>EI6FR</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>093012</TIME_ON>
+            <TIME_OFF>093012</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.041700</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>245</DXCC>
+            <CQZ>14</CQZ>
+            <ITUZ>27</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>EI6</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>DU3T</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>092556</TIME_ON>
+            <TIME_OFF>092556</TIME_OFF>
+            <BAND>40m</BAND>
+            <FREQ>7.017400</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>375</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>50</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>DU3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>DU3T</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>065450</TIME_ON>
+            <TIME_OFF>065450</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.003300</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>375</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>50</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>DU3</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>LX7I</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>065020</TIME_ON>
+            <TIME_OFF>065020</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.051600</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>254</DXCC>
+            <CQZ>14</CQZ>
+            <ITUZ>27</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>LX7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>EX0M</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>063759</TIME_ON>
+            <TIME_OFF>063759</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.065600</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>135</DXCC>
+            <CQZ>17</CQZ>
+            <ITUZ>30</ITUZ>
+            <CONT>As</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>EX0</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>9M8YY</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>063645</TIME_ON>
+            <TIME_OFF>063645</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.064200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>46</DXCC>
+            <CQZ>28</CQZ>
+            <ITUZ>54</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>9M8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>ER2QA</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>063600</TIME_ON>
+            <TIME_OFF>063600</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.013300</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>179</DXCC>
+            <CQZ>16</CQZ>
+            <ITUZ>29</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>ER2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>V85NPV</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>063501</TIME_ON>
+            <TIME_OFF>063501</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.020200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>345</DXCC>
+            <CQZ>28</CQZ>
+            <ITUZ>54</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>V85</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>K8R</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>063206</TIME_ON>
+            <TIME_OFF>063206</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.023300</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>515</DXCC>
+            <CQZ>32</CQZ>
+            <ITUZ>62</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>K8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>AH2R</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>062533</TIME_ON>
+            <TIME_OFF>062533</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.053200</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>103</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>64</ITUZ>
+            <CONT>Oc</CONT>
+            <IOTA>OC-026</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>AH2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>ER1KAA</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>062454</TIME_ON>
+            <TIME_OFF>062454</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.041900</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>179</DXCC>
+            <CQZ>16</CQZ>
+            <ITUZ>29</ITUZ>
+            <CONT>Eu</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>ER1</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>NP4Z</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>013200</TIME_ON>
+            <TIME_OFF>013200</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.064700</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>202</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>NP4</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>ZF1A</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>012929</TIME_ON>
+            <TIME_OFF>012929</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.033500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>69</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-016</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>ZF1</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>VK9XY</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>004807</TIME_ON>
+            <TIME_OFF>004807</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.026600</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>35</DXCC>
+            <CQZ>29</CQZ>
+            <ITUZ>54</ITUZ>
+            <CONT>Oc</CONT>
+            <IOTA>OC-002</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>VK9</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>FY5KE</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>003351</TIME_ON>
+            <TIME_OFF>003351</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.048800</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>63</DXCC>
+            <CQZ>9</CQZ>
+            <ITUZ>12</ITUZ>
+            <CONT>SA</CONT>
+            <IOTA>SA-020</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>FY5</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>PJ2T</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>001650</TIME_ON>
+            <TIME_OFF>001650</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.046000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>517</DXCC>
+            <CQZ>9</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>PJ2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>ZF5T</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>001423</TIME_ON>
+            <TIME_OFF>001423</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.024000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>69</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-016</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>ZF5</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>KH0W</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>001343</TIME_ON>
+            <TIME_OFF>001343</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.017600</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>166</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>64</ITUZ>
+            <CONT>Oc</CONT>
+            <IOTA>OC-086</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>KH0</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>WH2JA</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>001226</TIME_ON>
+            <TIME_OFF>001226</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.028500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>103</DXCC>
+            <CQZ>27</CQZ>
+            <ITUZ>64</ITUZ>
+            <CONT>Oc</CONT>
+            <IOTA>OC-026</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>WH2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>P44W</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>000733</TIME_ON>
+            <TIME_OFF>000733</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.008000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>91</DXCC>
+            <CQZ>9</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>SA</CONT>
+            <IOTA>SA-036</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>P44</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>PJ4K</CALL>
+            <QSO_DATE>20231125</QSO_DATE>
+            <QSO_DATE_OFF>20231125</QSO_DATE_OFF>
+            <TIME_ON>000256</TIME_ON>
+            <TIME_OFF>000256</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.012500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>520</DXCC>
+            <CQZ>9</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>PJ4</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>TI7W</CALL>
+            <QSO_DATE>20231124</QSO_DATE>
+            <QSO_DATE_OFF>20231124</QSO_DATE_OFF>
+            <TIME_ON>235624</TIME_ON>
+            <TIME_OFF>235624</TIME_OFF>
+            <BAND>10m</BAND>
+            <FREQ>28.027500</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>308</DXCC>
+            <CQZ>7</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>N</LOTW_QSL_SENT>
+            <PFX>TI7</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>KP2M</CALL>
+            <QSO_DATE>20231115</QSO_DATE>
+            <QSO_DATE_OFF>20231115</QSO_DATE_OFF>
+            <TIME_ON>234607</TIME_ON>
+            <TIME_OFF>234607</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.026000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>285</DXCC>
+            <CQZ>8</CQZ>
+            <ITUZ>11</ITUZ>
+            <CONT>NA</CONT>
+            <IOTA>NA-106</IOTA>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>Y</LOTW_QSL_SENT>
+            <PFX>KP2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>HC2AD</CALL>
+            <QSO_DATE>20231115</QSO_DATE>
+            <QSO_DATE_OFF>20231115</QSO_DATE_OFF>
+            <TIME_ON>234242</TIME_ON>
+            <TIME_OFF>234242</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.010000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>429</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>120</DXCC>
+            <CQZ>10</CQZ>
+            <ITUZ>12</ITUZ>
+            <CONT>SA</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>Y</LOTW_QSL_SENT>
+            <PFX>HC2</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>PY4LH</CALL>
+            <QSO_DATE>20231115</QSO_DATE>
+            <QSO_DATE_OFF>20231115</QSO_DATE_OFF>
+            <TIME_ON>233755</TIME_ON>
+            <TIME_OFF>233755</TIME_OFF>
+            <BAND>15m</BAND>
+            <FREQ>21.027000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>579</RST_SENT>
+            <RST_RCVD>559</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>108</DXCC>
+            <CQZ>11</CQZ>
+            <ITUZ>13</ITUZ>
+            <CONT>SA</CONT>
+            <NAME>RODINEI</NAME>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>Y</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>Y</LOTW_QSL_SENT>
+            <PFX>PY4</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+        <RECORD>
+            <CALL>4W8X</CALL>
+            <QSO_DATE>20231115</QSO_DATE>
+            <QSO_DATE_OFF>20231115</QSO_DATE_OFF>
+            <TIME_ON>083927</TIME_ON>
+            <TIME_OFF>083927</TIME_OFF>
+            <BAND>20m</BAND>
+            <FREQ>14.017000</FREQ>
+            <MODE>CW</MODE>
+            <RST_SENT>599</RST_SENT>
+            <RST_RCVD>599</RST_RCVD>
+            <USERDEF FIELDNAME="APP_RUMLOG_QSL">W</USERDEF>
+            <QSL_RCVD>N</QSL_RCVD>
+            <QSL_SENT>R</QSL_SENT>
+            <DXCC>511</DXCC>
+            <CQZ>28</CQZ>
+            <ITUZ>39</ITUZ>
+            <CONT>Oc</CONT>
+            <USERDEF FIELDNAME="APP_RUMLOG_POWER">Mid Power</USERDEF>
+            <EQSL_QSL_RCVD>N</EQSL_QSL_RCVD>
+            <EQSL_QSL_SENT>N</EQSL_QSL_SENT>
+            <LOTW_QSL_RCVD>N</LOTW_QSL_RCVD>
+            <LOTW_QSL_SENT>Y</LOTW_QSL_SENT>
+            <PFX>4W8</PFX>
+            <CLUBLOG_QSO_UPLOAD_STATUS>M</CLUBLOG_QSO_UPLOAD_STATUS>
+            <USERDEF FIELDNAME="APP_RUMLOG_COLORCODE">0</USERDEF>
+        </RECORD>
+    </RECORDS>
+</ADX>
